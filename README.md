@@ -6,3 +6,6 @@ Programs included:
 - Leap Year Program
 - Greatest Number Program
 - Guess Number Program
+- average of a number
+- dictionary basic program
+- student marks
