@@ -1,11 +1,33 @@
-# Python Practice
+# 🐍 Python Practice
 
-This repository contains basic Python programs that I practiced while learning Python.
+This repository contains my Python practice programs while learning Python from scratch.
 
-Programs included:
-- Leap Year Program
-- Greatest Number Program
-- Guess Number Program
-- average of a number
-- dictionary basic program
-- student marks
+## 📚 Topics Covered
+
+- Variables
+- Input & Output
+- Data Types
+- Type Casting
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Ternary Operator
+- String Methods
+- Conditional Statements (if, elif, else)
+
+## 🛠 Mini Programs
+
+- Calculator
+- Mad Lib Game
+- Even/Odd Checker
+- Pass/Fail Checker
+- Voting Eligibility Checker
+- Username Validator
+- Guess the Number Game
+- Factorial Program
+- Leap Year Checker
+
+## 🎯 Goal
+
+To build a strong Python foundation for AI Engineering and Machine Learning.
