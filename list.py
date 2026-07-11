@@ -1,5 +1,9 @@
-#second largest num in list
+#list using loop
 
-num=[10,40,250,20,370,45,195,100]
-num.sort()
-print("second largest number is",num[-2])
+actor = ["shahrukh","ajay","amitabh","salman","sidharth","varun"]
+
+actor[0] = "vicky"
+for x in actor:
+  print(x)
+  print(x.upper())
+
