@@ -1,165 +1,92 @@
-# 🐍 Python Practice Projects
+# 🐍 Python Practice
 
-Welcome to my Python practice repository!
+This repository contains my Python practice programs, interview questions, and mini projects created while learning Python.
 
-This repository contains my beginner-level Python projects and practice programs created while learning Python fundamentals.
+The goal of this repository is to build a strong foundation in Python, improve problem-solving skills, and prepare for software engineering and AI/ML interviews.
 
-The main goal of this repository is to build a strong foundation in:
+## 📂 Repository Structure
 
-* Programming logic
-* Problem-solving skills
-* Python syntax and concepts
-* Writing clean and understandable code
+```
+python-practice/
+│
+├── interview_questions/
+│   ├── basic_interview_questions.py
+│   ├── loops_interview_questions.py
+│   ├── lists_interview_questions.py
+│   ├── strings_interview_questions.py
+│   └── more coming soon...
+│
+├── mini_projects/
+│   ├── calculator.py
+│   ├── todo_list.py
+│   ├── temperature_converter.py
+│   └── more coming soon...
+│
+└── README.md
+```
 
----
-# Python Basics Practice
+## 📚 Topics Covered
 
-This repository contains beginner Python programs that I wrote while learning Python fundamentals.
-
-## Programs
-- Hello World
-- Greeting User
-- Voting Eligibility
-- Positive, Negative or Zero
-- Even or Odd
-- Largest of Two Numbers
-- Largest of Three Numbers
-- Simple Calculator
-- Temperature Converter
-- Simple Interest
-- Compound Interest
-- Leap Year Checker
-- Password Validation
-
-More Python programs will be added as I continue learning.
-
-## 📂 Projects Included
-
-### 🧮 Calculator Project
-
-A simple calculator program that performs basic arithmetic operations.
-
-**Features:**
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Handles invalid operations
-
-**Concepts Used:**
-
-* Variables
-* User input
-* Conditional statements
-* Arithmetic operators
-
----
-
-### 🌡️ Temperature Converter
-
-A program to convert temperature values between different units.
-
-**Features:**
-
-* Celsius to Fahrenheit conversion
-* Fahrenheit to Celsius conversion
-
-**Concepts Used:**
-
-* Input/output
-* Type casting
-* Mathematical operations
-
----
-
-### ⚖️ Weight Converter
-
-A simple program to convert weight between different units.
-
-**Concepts Used:**
-
-* Variables
-* User input
-* Arithmetic operations
-
----
-
-### ✅ To-Do List Project
-
-A beginner-friendly task management program.
-
-**Features:**
-
-* Add tasks
-* View tasks
-* Manage daily activities
-
-**Concepts Used:**
-
-* Lists
-* Loops
-* Conditional statements
-
----
-
-### 🎭 Mad Libs Game
-
-A fun story-generation game where users enter random words to create a custom story.
-
-**Concepts Used:**
-
+* Variables and Data Types
+* Input and Output
+* Type Casting
+* Arithmetic, Comparison and Logical Operators
+* Conditional Statements (if, elif, else)
+* Loops (for, while)
+* Break and Continue
 * Strings
-* User input
-* f-strings
+* Lists *(In Progress)*
+* Tuples
+* Sets
+* Dictionaries
+* Functions
+* File Handling
+* Exception Handling
+* Object-Oriented Programming (OOP)
 
----
+## 💻 Interview Practice
 
-## 🧠 Python Concepts Practiced
+This repository includes Python interview practice questions such as:
 
-Currently learning and practicing:
+* Hello World
+* User Greeting
+* Voting Eligibility
+* Positive, Negative or Zero
+* Even or Odd
+* Largest of Two Numbers
+* Largest of Three Numbers
+* Simple Calculator
+* Temperature Converter
+* Simple Interest
+* Compound Interest
+* Leap Year Checker
+* Username and Password Validation
 
-✅ Variables & Data Types
-✅ Input and Output
-✅ Type Casting
-✅ Operators
-✅ Conditional Statements
-✅ Loops
-✅ String Handling
-✅ Functions
-✅ Collections (Lists, Tuples, Sets, Dictionaries)
+More interview questions will be added as I continue learning.
 
----
+## 🚀 Mini Projects
 
-## 🚀 Learning Journey
+Some beginner Python projects included in this repository:
 
-I am continuously improving my Python skills as a part of my journey toward becoming an **AI/ML Engineer**.
+* Calculator
+* Temperature Converter
+* Weight Converter
+* To-Do List
 
-Future goals:
+More projects will be added regularly.
+
+## 🎯 Learning Goal
+
+I am learning Python to build a strong programming foundation for:
 
 * Data Structures & Algorithms
-* NumPy and Pandas
+* Artificial Intelligence
 * Machine Learning
-* Artificial Intelligence Projects
+* Deep Learning
+* Software Engineering Interviews
 
----
+## 📈 Progress
 
+I regularly update this repository as I learn new Python concepts and solve more coding problems.
 
-
-## 🛠️ Technologies Used
-
-* Python 🐍
-* Visual Studio Code
-* Git & GitHub
-
----
-
-## 📌 Purpose of This Repository
-
-This repository documents my progress while learning Python and building programming skills through consistent practice and projects.
-
-More projects and improvements will be added as I continue learning. 🚀
-
----
-
-⭐ Feel free to explore the projects and follow my learning journey!
+⭐ Thank you for visiting my repository!
