@@ -12,6 +12,26 @@ The main goal of this repository is to build a strong foundation in:
 * Writing clean and understandable code
 
 ---
+# Python Basics Practice
+
+This repository contains beginner Python programs that I wrote while learning Python fundamentals.
+
+## Programs
+- Hello World
+- Greeting User
+- Voting Eligibility
+- Positive, Negative or Zero
+- Even or Odd
+- Largest of Two Numbers
+- Largest of Three Numbers
+- Simple Calculator
+- Temperature Converter
+- Simple Interest
+- Compound Interest
+- Leap Year Checker
+- Password Validation
+
+More Python programs will be added as I continue learning.
 
 ## 📂 Projects Included
 
@@ -123,6 +143,8 @@ Future goals:
 * Artificial Intelligence Projects
 
 ---
+
+
 
 ## 🛠️ Technologies Used
 
