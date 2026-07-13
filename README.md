@@ -4,14 +4,15 @@ Welcome to my Python practice repository! 🚀
 
 This repository contains my Python learning journey, coding practice, interview preparation questions, and beginner-friendly mini projects.
 
-The main goal of this repository is to build a strong foundation in Python, improve problem-solving skills, and prepare myself for **Software Engineering and AI/ML Engineering opportunities**.
+The purpose of this repository is to build a strong foundation in Python, improve problem-solving skills, and prepare for **Software Engineering and AI/ML Engineering opportunities**.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
-```
+```text
 python-practice/
+
 │
 ├── interview_questions/
 │   ├── basic_interview_questions.py
@@ -22,10 +23,12 @@ python-practice/
 │
 ├── practice/
 │   ├── variables.py
+│   ├── operators.py
 │   ├── conditions.py
 │   ├── loops.py
 │   ├── strings.py
 │   ├── lists.py
+│   ├── nested_lists.py
 │   └── collections.py
 │
 ├── mini_projects/
@@ -60,29 +63,26 @@ python-practice/
 ✅ Nested Loops
 ✅ Break and Continue
 
-## Data Structures
+## Collections & Data Structures
 
 ✅ Strings
 ✅ Lists
+   • List methods
+   • List traversal
+   • Nested Lists
+   • List interview problems
+
 🔄 Tuples
 🔄 Sets
 🔄 Dictionaries
 
-## Advanced Python Concepts
-
-⬜ Functions
-⬜ Lambda Functions
-⬜ File Handling
-⬜ Exception Handling
-⬜ Object-Oriented Programming (OOP)
-
 ---
 
-# 💻 Interview Preparation
+# 💻 Interview Practice
 
-I am practicing Python problems commonly asked in coding interviews.
+I am solving Python interview questions to improve my logic building and coding skills.
 
-Currently covered:
+Currently practiced:
 
 ### Basic Problems
 
@@ -103,6 +103,9 @@ Currently covered:
 * Leap Year Checker
 * Username and Password Validation
 * List Manipulation Problems
+* Reverse a List
+* Find Maximum and Minimum Elements
+* Sum and Average of List Elements
 
 More interview questions will be added as I continue learning.
 
@@ -110,7 +113,7 @@ More interview questions will be added as I continue learning.
 
 # 🚀 Mini Projects
 
-Beginner projects created while learning Python:
+Beginner Python projects created while learning:
 
 ✅ Calculator
 ✅ To-Do List Application
@@ -118,7 +121,21 @@ Beginner projects created while learning Python:
 ✅ Weight Converter
 ✅ Shopping Cart Program
 
-More projects will be added as my Python skills improve.
+---
+
+# 🛒 Current Practice
+
+Working on Python Collections:
+
+* Creating and accessing lists
+* Nested lists
+* Traversing collections using loops
+* Storing and processing data using lists
+
+Example practice:
+
+* Grocery list management
+* Shopping cart implementation
 
 ---
 
@@ -132,7 +149,7 @@ I am learning Python as the foundation for:
 * Deep Learning
 * Software Engineering Interviews
 
-My long-term goal is to become an **AI/ML Engineer** and build real-world projects.
+My long-term goal is to become an **AI/ML Engineer** and build real-world applications.
 
 ---
 
@@ -140,16 +157,18 @@ My long-term goal is to become an **AI/ML Engineer** and build real-world projec
 
 I continuously update this repository by:
 
-* Learning new Python concepts
-* Solving interview questions
-* Building mini projects
-* Improving problem-solving skills
+✅ Learning new Python concepts
+✅ Practicing coding problems
+✅ Building mini projects
+✅ Improving problem-solving skills
+✅ Preparing for technical interviews
 
-This repository represents my consistent progress in programming. 🚀
+This repository represents my consistent progress in programming and AI/ML preparation. 🚀
 
 ---
 
-⭐ If you find this repository helpful, feel free to explore it!
+⭐ Thank you for visiting my repository!
 
 **Happy Coding! 🐍**
+
 
