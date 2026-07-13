@@ -1,8 +1,12 @@
-# 🐍 Python Practice
+# 🐍 Python Practice & Learning Journey
 
-This repository contains my Python practice programs, interview questions, and mini projects created while learning Python.
+Welcome to my Python practice repository! 🚀
 
-The goal of this repository is to build a strong foundation in Python, improve problem-solving skills, and prepare for software engineering and AI/ML interviews.
+This repository contains my Python learning journey, coding practice, interview preparation questions, and beginner-friendly mini projects.
+
+The main goal of this repository is to build a strong foundation in Python, improve problem-solving skills, and prepare myself for **Software Engineering and AI/ML Engineering opportunities**.
+
+---
 
 ## 📂 Repository Structure
 
@@ -12,72 +16,115 @@ python-practice/
 ├── interview_questions/
 │   ├── basic_interview_questions.py
 │   ├── loops_interview_questions.py
-│   ├── lists_interview_questions.py
 │   ├── strings_interview_questions.py
+│   ├── lists_interview_questions.py
 │   └── more coming soon...
+│
+├── practice/
+│   ├── variables.py
+│   ├── conditions.py
+│   ├── loops.py
+│   ├── strings.py
+│   ├── lists.py
+│   └── collections.py
 │
 ├── mini_projects/
 │   ├── calculator.py
 │   ├── todo_list.py
 │   ├── temperature_converter.py
+│   ├── weight_converter.py
+│   ├── shopping_cart.py
 │   └── more coming soon...
 │
 └── README.md
 ```
 
-## 📚 Topics Covered
+---
 
-* Variables and Data Types
-* Input and Output
-* Type Casting
-* Arithmetic, Comparison and Logical Operators
-* Conditional Statements (if, elif, else)
-* Loops (for, while)
-* Break and Continue
-* Strings
-* Lists *(In Progress)*
-* Tuples
-* Sets
-* Dictionaries
-* Functions
-* File Handling
-* Exception Handling
-* Object-Oriented Programming (OOP)
+# 📚 Topics Covered
 
-## 💻 Interview Practice
+## Python Fundamentals
 
-This repository includes Python interview practice questions such as:
+✅ Variables and Data Types
+✅ Input and Output
+✅ Type Casting
+✅ Arithmetic Operators
+✅ Comparison Operators
+✅ Logical Operators
+
+## Control Flow
+
+✅ Conditional Statements (`if`, `elif`, `else`)
+✅ For Loop
+✅ While Loop
+✅ Nested Loops
+✅ Break and Continue
+
+## Data Structures
+
+✅ Strings
+✅ Lists
+🔄 Tuples
+🔄 Sets
+🔄 Dictionaries
+
+## Advanced Python Concepts
+
+⬜ Functions
+⬜ Lambda Functions
+⬜ File Handling
+⬜ Exception Handling
+⬜ Object-Oriented Programming (OOP)
+
+---
+
+# 💻 Interview Preparation
+
+I am practicing Python problems commonly asked in coding interviews.
+
+Currently covered:
+
+### Basic Problems
 
 * Hello World
 * User Greeting
-* Voting Eligibility
+* Voting Eligibility Checker
 * Positive, Negative or Zero
-* Even or Odd
+* Even or Odd Number
 * Largest of Two Numbers
 * Largest of Three Numbers
+
+### Logic Building Problems
+
 * Simple Calculator
 * Temperature Converter
-* Simple Interest
-* Compound Interest
+* Simple Interest Calculator
+* Compound Interest Calculator
 * Leap Year Checker
 * Username and Password Validation
+* List Manipulation Problems
 
 More interview questions will be added as I continue learning.
 
-## 🚀 Mini Projects
+---
 
-Some beginner Python projects included in this repository:
+# 🚀 Mini Projects
 
-* Calculator
-* Temperature Converter
-* Weight Converter
-* To-Do List
+Beginner projects created while learning Python:
 
-More projects will be added regularly.
+✅ Calculator
+✅ To-Do List Application
+✅ Temperature Converter
+✅ Weight Converter
+✅ Shopping Cart Program
 
-## 🎯 Learning Goal
+More projects will be added as my Python skills improve.
 
-I am learning Python to build a strong programming foundation for:
+---
+
+# 🎯 Learning Goal
+
+I am learning Python as the foundation for:
 
 * Data Structures & Algorithms
 * Artificial Intelligence
@@ -85,8 +132,24 @@ I am learning Python to build a strong programming foundation for:
 * Deep Learning
 * Software Engineering Interviews
 
-## 📈 Progress
+My long-term goal is to become an **AI/ML Engineer** and build real-world projects.
 
-I regularly update this repository as I learn new Python concepts and solve more coding problems.
+---
 
-⭐ Thank you for visiting my repository!
+# 📈 Progress
+
+I continuously update this repository by:
+
+* Learning new Python concepts
+* Solving interview questions
+* Building mini projects
+* Improving problem-solving skills
+
+This repository represents my consistent progress in programming. 🚀
+
+---
+
+⭐ If you find this repository helpful, feel free to explore it!
+
+**Happy Coding! 🐍**
+
