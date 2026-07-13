@@ -12,3 +12,7 @@ print(groceries[1])#print vegetable list
 print(groceries[2])#print drinks list
 
 print(groceries[0][1])#0th row and 1 coloumn returns orange
+
+for collection in groceries:
+  for food in collection:
+    print(food)
