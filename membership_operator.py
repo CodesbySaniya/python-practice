@@ -20,6 +20,24 @@ else:
   print("you failed the exam")
 
 
+
+# Create a list of fruits.
+
+# Ask the user to enter a fruit name.
+
+# If the fruit exists in the list, print
+
+fruits = ["cherry","banana","apple","strawberry","papaya"]
+
+fruit = input("enter a fruit name: ")
+
+if fruit in fruits:
+  print(f"{fruit} is available")
+else:
+  print(f"{fruit} is not available")
+
+
+
 # Write a program that asks the user to enter a word and prints only the vowels present in that word.
 
 word = input("enter the word: ")
