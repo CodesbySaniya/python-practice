@@ -19,3 +19,14 @@ if grade in my_dict:
 else:
   print("you failed the exam")
 
+
+# Write a program that asks the user to enter a word and prints only the vowels present in that word.
+
+word = input("enter the word: ")
+count =0
+for letter in word:
+  if letter in "aeiou":
+    print(letter)
+    count+=1
+print(f" Total number of vowel in word  {count}")
+
