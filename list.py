@@ -29,3 +29,20 @@ print(numbers[3:])#or
 print(numbers[1:4])
 
 
+# Ask the user to enter five numbers. Store them in a list and print:
+
+# The complete list
+# The largest number
+# The smallest number
+
+num = []
+
+nums = int(input("enter any five num: "))
+
+for nums in range(5):
+ nums =int(input("enter any five num or( q to quit )"))
+ num.append(nums)
+print(num)
+print(max(num))
+print(min(num))
+
