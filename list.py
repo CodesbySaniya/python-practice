@@ -46,3 +46,32 @@ print(num)
 print(max(num))
 print(min(num))
 
+
+
+# Ask the user to keep entering numbers until they type "q". Store all numbers in a list. At the end, print:
+
+# All numbers
+# Total
+# Average
+
+list1 = []
+total = 0
+avg = 0
+
+
+
+while True:
+  num=input("enter numbers u want or q to quit : ").lower()
+  if num =="q":
+    break
+  else:
+   b = int(num)
+   list1.append(b)
+   total += b
+   avg = total / len(list1)
+  
+  
+print(list1)
+print(total)
+print(avg)
+
